@@ -29,6 +29,7 @@ struct ContentView: View {
                     Spacer()
                     Text("California")
                         .font(.subheadline)
+                        .foregroundColor(Color.orange)
                 }
                 Divider()
                 
